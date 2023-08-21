@@ -180,7 +180,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Zhu-Pengming-Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhu-Pengming-Toma&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes
